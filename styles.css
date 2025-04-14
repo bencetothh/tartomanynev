@@ -41,8 +41,15 @@ h1, h2 {
 p.kepfelirat {
   font-size: 1.1em;
   margin: 0px;
+  height: 140%;
+  text-align: center;
+  font-style: italic;  
 }
 
 p {
   text-align: justify;
+}
+
+.kiemelt{
+  font-weight: bold;
 }
